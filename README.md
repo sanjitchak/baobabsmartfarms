@@ -1,2 +1,0 @@
-# baobabsmartfarms
-Redirect set
